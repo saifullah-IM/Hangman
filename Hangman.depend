@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1495814493 source:e:\buet\level-1 term-1\cse-102\projects\project_hangman\hangman\imain.cpp
+	"iGraphics.h"
+
+1494051292 e:\buet\level-1 term-1\cse-102\projects\project_hangman\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1495816402 source:g:\downloads\hangman\imain.cpp
+	"iGraphics.h"
+
+1494051294 g:\downloads\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1496568246 source:f:\buet\level-1 term-1\cse-102\projects\project_hangman\hangman\imain.cpp
+	"iGraphics.h"
+
+1494051294 f:\buet\level-1 term-1\cse-102\projects\project_hangman\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
